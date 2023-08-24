@@ -1,2 +1,4 @@
 # Multi_download
-A multithreaded download using C
+A multi_threaded download using C
+
+
